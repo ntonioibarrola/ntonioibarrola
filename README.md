@@ -8,7 +8,8 @@
 <samp>I'm a Developer, Digital Artist, and Gamer!</samp>
 
 - 🔭 <samp>Recent grad from UCSC with a passion for Web Development!</samp>
-- 📫 <samp>How to reach me: ntonio.ibarrola@gmail.com.</samp>
+- 🖥️ <samp>Check out what I've done! ⚠️ IN-PROGRESS ⚠️ http://www.antonioibarrola.com</samp>
+- 📫 <samp>You can reach me at ntonio.ibarrola@gmail.com.</samp>
 - ⚡ <samp>Fun fact: My favorite films include Bladerunner 2049, Spider-Man: Into the Spider-Verse, and Wall-E!</samp>
 
 <h3><samp> 🛠 Top Technologies </samp></h3>
