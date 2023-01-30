@@ -1,6 +1,5 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/016/532/222/original/lennart-butz-japan-12.gif?1552504264)
-
-<p><samp>Placeholder Banner - Credits: https://cdna.artstation.com/p/assets/images/images/016/532/222/original/lennart-butz-japan-12.gif?1552504264</samp></p>
+![Banner](https://cdna.artstation.com/p/assets/images/images/016/532/222/original/lennart-butz-japan-12.gif?1552504264)
+<sup>*Credits: [Artstation - Lennart Butz](https://www.artstation.com/artwork/3oLWXE)*</sup>
 
 <h2><samp> Hello! I'm Antonio </samp>
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h2>
@@ -18,8 +17,10 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg">
+  <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
